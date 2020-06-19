@@ -15,8 +15,8 @@ During review I cleaned up:
 
 ---
 
-![Screen Shot of Website 1](ScreenShot1.jpg)
+![Screen Shot of Website 1](./assets/ScreenShot1.jpg)
 
 ---
 
-![Screen Shot of Website 1](ScreenShot2.jpg)
+![Screen Shot of Website 1](./assets/ScreenShot2.jpg)
