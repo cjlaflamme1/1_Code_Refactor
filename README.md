@@ -5,10 +5,10 @@ The client requested a codebase that follows accessibility standards to optimize
 
 During review I cleaned up: 
 
--Redundant CSS Classes and Code
--Fixed Broken Links in the Nav
--Modified HTML code to include semantics
--Added ALT and Title attributes to Images.
+- Redundant CSS Classes and Code
+- Fixed Broken Links in the Nav
+- Modified HTML code to include semantics
+- Added ALT and Title attributes to Images.
 
 
 [Link to Website](https://cjlaflamme1.github.io/1_Code_Refactor/)
